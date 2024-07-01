@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "§l§fBetter Sidebar§r",
+		"description": "This add-on allows you to display rawtext of type title on the right side of the UI and move the dashboard from the right side to the left side. Developed by §l§b@AxrzZ§r",
+		"uuid": "49d7ceba-8def-447f-adcb-e063577a21f6",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 21, 0]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "8c251fee-4133-44c0-a0ec-cdf0e5b7d8ae",
+			"version": [1, 0, 0]
+		}
+	]
+}
